@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+<!-- Settings - SETTINGS -->
+	<string Name="10000">SETTINGS</string>
+	<string Name="10001">InControl Server Settings</string>
+	<string Name="10002">InControl Server IP address:</string>
+	<string Name="10003">InControl Server Port:</string>
+	<string Name="10004">InControl Server Username:</string>
+	<string Name="10005">InControl Server Password:</string>
+       
+<!-- Settings - XBMC VNameeo Player State s -->
+	<string Name="11000">VNameEO</string>
+	<string Name="11001">VNameeo Started</string>
+	<string Name="11002">VNameeo Paused</string>
+	<string Name="11003">VNameeo Resumed</string>
+	<string Name="11004">VNameeo Stopped</string>
+	<string Name="11005">VNameeo Ended</string>
+
+<!-- Settings - XBMC VNameeo Player State -->
+	<string Name="12001">VNameeo Start - Activate InControl Scene:</string>
+	<string Name="12002">VNameeo Pause - Activate InControl Scene:</string>
+	<string Name="12003">VNameeo Resume - Activate InControl Scene:</string>
+	<string Name="12004">VNameeo Stop - Activate InControl Scene:</string>
+	<string Name="12005">VNameeo End - Activate InControl Scene:</string>
+
+<!-- Settings - InControl Scene Name -->
+	<string Name="13001">InControl Scene Name:</string>
+
+<!-- Settings - Might Mode Settings -->
+	<string Name="14001">Night Mode</string>
+	<string Name="14002">Night Mode Activated:</string>
+	<string Name="14003">Night Mode - On Time Hour (24 Hour Clock):</string>
+	<string Name="14004">Night Mode - Off Time Hour (24 Hour Clock):</string>
+	<string Name="14005">Debug Mode</string>
+	<string Name="14006">Debug Mode:</string>
+
+<!-- Settings - XBMC Audio Player State s -->
+	<string Name="15000">AUDIO</string>
+	<string Name="15001">Audio Started</string>
+	<string Name="15002">Audio Paused</string>
+	<string Name="15003">Audio Resumed</string>
+	<string Name="15004">Audio Stopped</string>
+	<string Name="15005">Audio Ended</string>
+
+<!-- Settings - XBMC Audio Player State -->
+	<string Name="16001">Audio Start - Activate InControl Scene:</string>
+	<string Name="16002">Audio Pause - Activate InControl Scene:</string>
+	<string Name="16003">Audio Resume - Activate InControl Scene:</string>
+	<string Name="16004">Audio Stop - Activate InControl Scene:</string>
+	<string Name="16005">Audio End - Activate InControl Scene:</string>
+
+<!-- Settings - SHORTCUTS -->
+	<string Name="17000">SHORTCUTS</string>
+	<string Name="17001">InControl Scene Shortcuts</string>
+	<string Name="17002">Shortcuts Active:</string>
+	<string Name="17003">Shortcut 1</string>
+	<string Name="17004">Shortcut 1 Active:</string>
+	<string Name="17005">Shortcut 1 Name:</string>
+	<string Name="17006">Shortcut 1 - InControl Scene Name:</string>
+	<string Name="17007">Shortcut 2</string>
+	<string Name="17008">Shortcut 2 Active:</string>
+	<string Name="17009">Shortcut 2 Name:</string>
+	<string Name="17010">Shortcut 2 - InControl Scene Name:</string>
+	<string Name="17011">Shortcut 3</string>
+	<string Name="17012">Shortcut 3 Active:</string>
+	<string Name="17013">Shortcut 3 Name:</string>
+	<string Name="17014">Shortcut 3 - InControl Scene Name:</string>
+	<string Name="17015">Shortcut 4</string>
+	<string Name="17016">Shortcut 4 Active:</string>
+	<string Name="17017">Shortcut 4 Name:</string>
+	<string Name="17018">Shortcut 4 - InControl Scene Name:</string>
+	<string Name="17019">Shortcut 5</string>
+	<string Name="17020">Shortcut 5 Active:</string>
+	<string Name="17021">Shortcut 5 Name:</string>
+	<string Name="17022">Shortcut 5 - InControl Scene Name:</string>
+	<string Name="17031">Shortcut 1 - Open XBMC Window:</string>
+	<string Name="17032">Shortcut 2 - Open XBMC Window:</string>
+	<string Name="17033">Shortcut 3 - Open XBMC Window:</string>
+	<string Name="17034">Shortcut 4 - Open XBMC Window:</string>
+	<string Name="17035">Shortcut 5 - Open XBMC Window:</string>
+</strings>

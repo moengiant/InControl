@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="incontrol.addon" name="InControl Scene Manager" version="Alpha 0.1" provider-name="davidstephenson@wowway.com">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.requests" version="1.1.0"/>
+    </requires>
+  
+    <extension point="xbmc.service" library="default.py" start="startup" />
+  
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>Eng</language>
+        <summary lang="en">InControl Scene Manager</summary>
+        <description lang="en">Trigger an InControl Scene based on Kodi (XBMC) events via an InControl Server. 
+Create scenes in InControl and then configure the InControl server settings and assign scene names to player events.
+To reinstate changes in the InControl addon settings disable and then re-enable the InControl addon.         
+
+IMPORTANT: Disable/Enable after changing settings - or restart Kodi.</description>
+
+        <disclaimer lang="en">This is a port of the insteon addon - Cheers!</disclaimer>
+    </extension>
+</addon>
